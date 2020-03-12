@@ -21,4 +21,4 @@ image:
 
   ## The tag for the image
   ## ref: https://hub.docker.com/repository/docker/vpdocker1/jmeterdistributed5.2.1/tags
-  tag: v1
+  tag: latest
